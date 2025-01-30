@@ -1,0 +1,41 @@
+
+.heading{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+.base{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    min-height: 100vh;
+
+    
+}
+
+.box-color{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 600px;
+    margin-left: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 70px;
+}
+.box-color p{
+    color: aliceblue;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   margin: 0;
+   padding: 10px;
+   width: 100%;
+   height: 100%;
+   border-radius: 10px;
+   border: 1px solid black;
+   font-weight: 800px;
+    
+    
+}
